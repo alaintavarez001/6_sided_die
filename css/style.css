@@ -1,0 +1,13 @@
+h1 {
+    position: relative;
+    bottom: 760px;
+    left: 565px;
+    font-size: 200px;
+    font-family: monospace
+}
+
+#die {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
